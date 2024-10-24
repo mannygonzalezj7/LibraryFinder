@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
