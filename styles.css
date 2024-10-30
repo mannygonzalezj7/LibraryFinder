@@ -11,13 +11,24 @@ h1 {
     font-weight: bold;
 }
 
+.carousel-item {
+    transition: transform 0.5s ease;
+}
+
 .card {
     border: none;
+    margin: 0 10px;
 }
 
 .card-title {
     font-weight: bold;
 }
+
+.carousel-control-prev,
+.carousel-control-next {
+    filter: invert(1);
+}
+
 
 footer {
     background-color: #f8f9fa;
