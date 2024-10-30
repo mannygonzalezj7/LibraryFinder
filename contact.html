@@ -24,7 +24,7 @@
                         <a class="nav-link" href="home.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="location.html">Location</a>
+                        <a class="nav-link" href="location.html">Locations</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="book.html">Books</a>
@@ -43,20 +43,28 @@
         </div>
     </nav>
 
-    <div class="container mt-5">
+    <!-- Contact Form -->
+    <form class="container mt-5 needs-validation" novalidate>
         <h1 class="mb-4 text-center">Contact</h1>
+        <!-- Email Input -->
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Email address</label>
-            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com"
+                required>
+            <div class="invalid-feedback">
+                Please enter an email.
+            </div>
         </div>
+        <!-- Message Input -->
         <div class="mb-3">
             <label for="exampleFormControlTextarea1" class="form-label">Message</label>
             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
         </div>
+        <!-- Submit Button -->
         <div class="form-floating text-center mb-4">
             <button type="submit" class="btn btn-danger mb-3">Send</button>
         </div>
-    </div>
+    </form>
 
     <footer class="bg-light text-center py-4">
         <p>© 2024 LibraryFinder</p>

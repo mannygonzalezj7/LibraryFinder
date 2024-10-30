@@ -24,7 +24,7 @@
                         <a class="nav-link" href="home.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="location.html">Location</a>
+                        <a class="nav-link" href="location.html">Locations</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="book.html">Books</a>
@@ -44,17 +44,23 @@
     </nav>
 
     <!-- Sign In Container-->
-    <div class="container mt-5">
+    <form class="container mt-5 needs-validation" novalidate>
         <h1 class="mb-4 text-center">Sign In</h1>
         <!-- Email -->
         <div class="form-floating mb-3">
-            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com" required="">
             <label for="floatingInput">Email address</label>
+            <div class="invalid-feedback">
+                Please enter an email.
+            </div>
         </div>
         <!-- Password -->
         <div class="form-floating mb-4">
-            <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+            <input type="password" class="form-control" id="floatingPassword" placeholder="Password" required="">
             <label for="floatingPassword">Password</label>
+            <div class="invalid-feedback">
+                Please enter a password.
+            </div>
         </div>
         <!-- Remember Me Button-->
         <div class="form-check">
@@ -69,7 +75,7 @@
         </div>
         <!-- Register Redirect -->
         <p class="text-center">Not registered? <a class="" href="register.html">Register</a></p>
-    </div>
+    </form>
 
     <footer class="bg-light text-center py-4">
         <p>© 2024 LibraryFinder</p>
