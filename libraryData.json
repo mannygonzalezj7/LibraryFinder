@@ -1,0 +1,773 @@
+[
+  {
+    "name": "AMP Library",
+    "hours": {
+      "today": "9 a.m.–6 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-263-1721",
+      "email": "askamp@library.wisc.edu"
+    },
+    "services": [
+      "Book scanner",
+      "Open return",
+      "Reservable study rooms"
+    ],
+    "specialties": []
+  },
+  {
+    "name": "AOSS Library",
+    "hours": {
+      "today": "8 a.m.–5 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-0987",
+      "email": "library@ssec.wisc.edu"
+    },
+    "services": [
+      "Open return"
+    ],
+    "specialties": [
+      "Earth science",
+      "Planetary sciences",
+      "Atmospheric sciences",
+      "Space sciences"
+    ]
+  },
+  {
+    "name": "Arboretum Research Library",
+    "hours": {
+      "today": "9:30 a.m.–4 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-890-1024",
+      "email": "info@arboretum.wisc.edu"
+    },
+    "services": [],
+    "specialties": [
+      "Ecological restoration",
+      "Prairie restoration",
+      "Arboretum records"
+    ]
+  },
+  {
+    "name": "Art Library",
+    "hours": {
+      "today": "9 a.m.–7 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-263-2258",
+      "email": "askart@library.wisc.edu"
+    },
+    "services": [
+      "Open return",
+      "Photocopier",
+      "Reservable study rooms"
+    ],
+    "specialties": [
+      "Art",
+      "Architecture",
+      "Decorative Arts",
+      "Design",
+      "Graphic Arts",
+      "Photography",
+      "Artists' Books"
+    ]
+  },
+  {
+    "name": "Business Library",
+    "hours": {
+      "today": "7:30 a.m.–Midnight",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-5935",
+      "email": "askbusiness@library.wisc.edu"
+    },
+    "services": [
+      "Computer lab",
+      "Gender-neutral restroom",
+      "Open return",
+      "Reservable study rooms",
+      "Silent study spaces"
+    ],
+    "specialties": [
+      "Accounting",
+      "Actuarial Science",
+      "Banking",
+      "Finance Investment",
+      "Insurance",
+      "International Business",
+      "Management",
+      "Marketing",
+      "Operations Technology",
+      "Real Estate"
+    ]
+  },
+  {
+    "name": "CCBC",
+    "hours": {
+      "today": "9 a.m.–7 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-263-3720",
+      "email": "ccbcinfo@education.wisc.edu"
+    },
+    "services": [],
+    "specialties": [
+      "Children's Literature",
+      "Young Adult Literature",
+      "Intellectual Freedom"
+    ]
+  },
+  {
+    "name": "Chemistry Information Commons",
+    "hours": {
+      "today": "8 a.m.–6 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-4423",
+      "email": "askchem@library.wisc.edu"
+    },
+    "services": [
+      "Book scanner",
+      "Gender-neutral restroom",
+      "Reservable study rooms"
+    ],
+    "specialties": [
+      "Biochemistry",
+      "Analytical Chemistry",
+      "Inorganic Chemistry",
+      "Organic Chemistry",
+      "Materials Chemistry",
+      "Physical Chemistry",
+      "Theoretical Chemistry"
+    ]
+  },
+  {
+    "name": "Chican@ and Latin@ Studies Library",
+    "hours": {
+      "today": "8:30 a.m.–4:30 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-263-4486",
+      "email": "chicla@letsci.wisc.edu"
+    },
+    "services": [],
+    "specialties": [
+      "Latino Studies"
+    ]
+  },
+  {
+    "name": "College Library",
+    "hours": {
+      "today": "Open 24 hours",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-3245",
+      "email": "helenc@library.wisc.edu"
+    },
+    "services": [
+      "24-hour service",
+      "AV equipment for check out",
+      "Book scanner",
+      "Café",
+      "Color laser printer",
+      "Computer lab",
+      "Gender-neutral restroom",
+      "Lactation room",
+      "Laptops for check out",
+      "Lockers",
+      "Open return",
+      "Photocopier",
+      "Reflection space",
+      "Reservable study rooms",
+      "Silent study spaces",
+      "Vending area"
+    ],
+    "specialties": [
+      "Ethnic Studies",
+      "Gender and Women's Studies",
+      "Undergraduate Services",
+      "Career Services"
+    ]
+  },
+  {
+    "name": "Ebling Library",
+    "hours": {
+      "today": "9 a.m.–7 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-2020",
+      "email": "askebling@hsl.wisc.edu"
+    },
+    "services": [
+      "Computer lab",
+      "Laptops for check out",
+      "Open return",
+      "Photocopier"
+    ],
+    "specialties": [
+      "Biomedical Sciences",
+      "Clinical Practice",
+      "Nursing",
+      "Pharmacy",
+      "Public Health",
+      "Biotechnology",
+      "History of Health Sciences and Special Collections"
+    ]
+  },
+  {
+    "name": "Gender and Sexuality Campus Center Library",
+    "hours": {
+      "today": "10 a.m.–7 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-265-3344",
+      "email": "lgbt@studentlife.wisc.edu"
+    },
+    "services": [
+      "Gender-neutral restroom"
+    ],
+    "specialties": [
+      "GayLesbianBiTrans",
+      "Women's Studies"
+    ]
+  },
+  {
+    "name": "Gender and Women's Studies Librarian's Office",
+    "hours": {
+      "today": "9 a.m.–5 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-263-5754",
+      "email": "askgwsl_library@wisc.edu"
+    },
+    "services": [
+      "Open return"
+    ],
+    "specialties": [
+      "Women's Studies",
+      "Gender Studies",
+      "Lesbian Studies",
+      "Feminism"
+    ]
+  },
+  {
+    "name": "Geology and Geophysics Library",
+    "hours": {
+      "today": "9 a.m.–6 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-8956",
+      "email": "geolib@library.wisc.edu"
+    },
+    "services": [
+      "Book scanner",
+      "Open return",
+      "Photocopier",
+      "Reservable study rooms"
+    ],
+    "specialties": [
+      "Geophysics",
+      "Geology"
+    ]
+  },
+  {
+    "name": "Historical Society-Archives",
+    "hours": {
+      "today": "8 a.m.–5 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-264-6460",
+      "email": "askarchives@wisconsinhistory.org"
+    },
+    "services": [
+      "Book scanner",
+      "Lockers",
+      "Microform printer",
+      "Vending area"
+    ],
+    "specialties": []
+  },
+  {
+    "name": "Historical Society-Library",
+    "hours": {
+      "today": "8 a.m.–7 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-264-6535",
+      "email": "asklibrary@wisconsinhistory.org"
+    },
+    "services": [
+      "Book scanner",
+      "Lockers",
+      "Microform printer",
+      "Open return",
+      "Reservable study rooms",
+      "Vending area"
+    ],
+    "specialties": [
+      "North American History",
+      "Wisconsin History",
+      "Politics",
+      "Archaeology",
+      "Genealogy",
+      "Government Publications",
+      "Women's Studies",
+      "Newspapers"
+    ]
+  },
+  {
+    "name": "Information School Library",
+    "hours": {
+      "today": "8:30 a.m.–8:30 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-263-2960",
+      "email": "ischoollib@library.wisc.edu"
+    },
+    "services": [
+      "Computer lab",
+      "Open return",
+      "Photocopier"
+    ],
+    "specialties": [
+      "Library and Information Science",
+      "Children's literature"
+    ]
+  },
+  {
+    "name": "Journalism Reading Room",
+    "hours": {
+      "today": "9 a.m.–6 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-263-3387",
+      "email": "jrrlib@library.wisc.edu"
+    },
+    "services": [
+      "Open return"
+    ],
+    "specialties": [
+      "Journalism",
+      "Mass communication",
+      "Advertising",
+      "Public relations",
+      "Photojournalism"
+    ]
+  },
+  {
+    "name": "Law Library",
+    "hours": {
+      "today": "7:30 a.m.–Midnight",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-1128",
+      "email": "asklawref@law.wisc.edu"
+    },
+    "services": [
+      "Book scanner",
+      "Gender-neutral restroom",
+      "Open return",
+      "Photocopier"
+    ],
+    "specialties": [
+      "Wisconsin law",
+      "Foreign and international law",
+      "Criminal justice",
+      "US law"
+    ]
+  },
+  {
+    "name": "Limnology Library",
+    "hours": {
+      "today": "1–4 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-4439",
+      "email": "limlib@mailplus.wisc.edu"
+    },
+    "services": [],
+    "specialties": [
+      "Fresh water",
+      "Marine biology",
+      "Fisheries",
+      "Lake ecology"
+    ]
+  },
+  {
+    "name": "Max Kade Institute for German-American Studies",
+    "hours": {
+      "today": "9 a.m.–4 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-7546",
+      "email": "kkurdylo@wisc.edu"
+    },
+    "services": [],
+    "specialties": [
+      "German-American materials",
+      "Reference materials"
+    ]
+  },
+  {
+    "name": "Memorial Library",
+    "hours": {
+      "today": "8:30 a.m.–11 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-3343",
+      "email": "askmemorial@library.wisc.edu"
+    },
+    "services": [
+      "Book scanner",
+      "Color copier",
+      "Color laser printer",
+      "Computer lab",
+      "Gender-neutral restroom",
+      "Lactation room",
+      "Laptops for check out",
+      "Lockers",
+      "Microform printer",
+      "Open return",
+      "Photocopier",
+      "Pickup books by appointment",
+      "Reservable study rooms",
+      "Silent study spaces",
+      "Vending area"
+    ],
+    "specialties": [
+      "Humanities",
+      "Social Sciences",
+      "Area Studies",
+      "History of Science"
+    ]
+  },
+  {
+    "name": "MERIT Library",
+    "hours": {
+      "today": "8 a.m.–9 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-263-4750",
+      "email": "library@education.wisc.edu"
+    },
+    "services": [
+      "AV equipment for check out",
+      "Book scanner",
+      "Color laser printer",
+      "Laptops for check out",
+      "Open return"
+    ],
+    "specialties": [
+      "Education",
+      "Teacher's Education",
+      "Instructional Materials"
+    ]
+  },
+  {
+    "name": "Mills Music Library",
+    "hours": {
+      "today": "9 a.m.–5 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-263-1884",
+      "email": "askmusic@library.wisc.edu"
+    },
+    "services": [
+      "Gender-neutral restroom"
+    ],
+    "specialties": [
+      "Scores",
+      "Recordings",
+      "Videos",
+      "Wisconsin Music Archives",
+      "Music special collections"
+    ]
+  },
+  {
+    "name": "Morgridge Center",
+    "hours": {
+      "today": "8:30 a.m.–5 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-263-2432",
+      "email": "info@morgridge.wisc.edu"
+    },
+    "services": [],
+    "specialties": []
+  },
+  {
+    "name": "Robinson Map Library",
+    "hours": {
+      "today": "9 a.m.–4:30 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-1471",
+      "email": "askmap@library.wisc.edu"
+    },
+    "services": [],
+    "specialties": [
+      "Maps",
+      "Aerial photography",
+      "Geography",
+      "Cartography",
+      "Geographic Information Systems"
+    ]
+  },
+  {
+    "name": "Social Work Library",
+    "hours": {
+      "today": "8:30 a.m.–6 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-263-3840",
+      "email": "socworklib@library.wisc.edu"
+    },
+    "services": [
+      "Book scanner",
+      "Color laser printer",
+      "Gender-neutral restroom",
+      "Laptops for check out",
+      "Open return",
+      "Photocopier",
+      "Reservable study rooms"
+    ],
+    "specialties": [
+      "Aging",
+      "Child Welfare",
+      "Cultural Competence",
+      "Disabilities",
+      "Families",
+      "Mental Health",
+      "Substance Abuse",
+      "Video Collection"
+    ]
+  },
+  {
+    "name": "Special Collections",
+    "hours": {
+      "today": "9 a.m.–5 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-3243",
+      "email": "askspecial@library.wisc.edu"
+    },
+    "services": [],
+    "specialties": [
+      "Rare books",
+      "Printed ephemera",
+      "Other special collections",
+      "Exhibits",
+      "Little magazines",
+      "American women writers",
+      "History of science"
+    ]
+  },
+  {
+    "name": "Steenbock Library",
+    "hours": {
+      "today": "9 a.m.–11:30 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-1371",
+      "email": "asksteenbock@library.wisc.edu"
+    },
+    "services": [
+      "Book scanner",
+      "Color laser printer",
+      "Computer lab",
+      "Gender-neutral restroom",
+      "Lactation room",
+      "Laptops for check out",
+      "Open return",
+      "Photocopier",
+      "Reflection space",
+      "Reservable study rooms",
+      "Vending area"
+    ],
+    "specialties": [
+      "Agriculture",
+      "Biology",
+      "Botany",
+      "Computer science",
+      "Ecology",
+      "Engineering",
+      "Life sciences",
+      "Patents",
+      "Veterinary medicine",
+      "Zoology"
+    ]
+  },
+  {
+    "name": "University Archives and Records Management Services",
+    "hours": {
+      "today": "9 a.m.–4 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-5629",
+      "email": "uwarchiv@library.wisc.edu"
+    },
+    "services": [],
+    "specialties": [
+      "Archives and manuscripts",
+      "Publications and photos",
+      "Records management",
+      "Oral history",
+      "Memorabilia",
+      "UW-Madison",
+      "UW System administration",
+      "UW Colleges and Extension"
+    ]
+  },
+  {
+    "name": "Wisconsin Center for Film and Theater Research",
+    "hours": {
+      "today": "8 a.m.–5 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-264-6466",
+      "email": "wcftr@commarts.wisc.edu"
+    },
+    "services": [],
+    "specialties": [
+      "Manuscripts",
+      "Stills",
+      "Clippings",
+      "Film and Video Viewing by appointment only"
+    ]
+  },
+  {
+    "name": "Wisconsin Water Library",
+    "hours": {
+      "today": "9 a.m.–4:30 p.m.",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-3069",
+      "email": "askwater@aqua.wisc.edu"
+    },
+    "services": [
+      "Book scanner",
+      "Open return",
+      "Photocopier"
+    ],
+    "specialties": [
+      "Water resources",
+      "Wisconsin water issues",
+      "Great Lakes issues",
+      "Children's collection on water"
+    ]
+  },
+  {
+    "name": "Zoological Museum Research Library",
+    "hours": {
+      "today": "8:30 a.m.–4:30 p.m. (closed Noon–1 p.m.)",
+      "tomorrow": "November 21",
+      "thirdDay": "November 22"
+    },
+    "location": "View on the Campus Map",
+    "contact": {
+      "phone": "608-262-3766",
+      "email": "uwzm@mailplus.wisc.edu"
+    },
+    "services": [],
+    "specialties": [
+      "Animal systematics",
+      "Ecology",
+      "Museum studies"
+    ]
+  }
+]
