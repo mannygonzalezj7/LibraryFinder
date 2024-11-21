@@ -35,7 +35,7 @@ fetch("libraryData.json")
             <img src="https://via.placeholder.com/150" class="card-img-top" alt="${element.name} Library Image">
             <div class="card-body">
                 <h5 class="card-title">${element.name}</h5>
-                <a href="/location.html#${sanitizedID}Details" class="btn btn-danger">Explore</a>
+                <a href="location.html#${sanitizedID}Details" class="btn btn-danger">Explore</a>
           </div>
         </div>
       </div>
