@@ -16,7 +16,8 @@
       "Open return",
       "Reservable study rooms"
     ],
-    "specialties": []
+    "specialties": [],
+    "image": ["https://www.library.wisc.edu/assets/buildings/amp-fc3194debda9337cb7731f7686e361ac0d1609a487cee98b50b54d87215c6132.jpg"]
   },
   {
     "name": "AOSS Library",
@@ -38,7 +39,8 @@
       "Planetary sciences",
       "Atmospheric sciences",
       "Space sciences"
-    ]
+    ],
+    "image": ["https://library.ssec.wisc.edu/wordpress/wp-content/uploads/2022/06/student-framed-by-stacks_final-600x480.jpg"]
   },
   {
     "name": "Arboretum Research Library",
@@ -57,7 +59,8 @@
       "Ecological restoration",
       "Prairie restoration",
       "Arboretum records"
-    ]
+    ],
+    "image": ["https://arboretum.wisc.edu/content/uploads/2012/08/featurePhoto4-348x232.png"]
   },
   {
     "name": "Art Library",
@@ -84,7 +87,8 @@
       "Graphic Arts",
       "Photography",
       "Artists' Books"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/art-22085c4ce8a7a3e9bf3406deb3937b237872e1aac60fe76a67ac17bc64edbddc.jpg"]
   },
   {
     "name": "Business Library",
@@ -116,7 +120,8 @@
       "Marketing",
       "Operations Technology",
       "Real Estate"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/business-ce53456bf21cae27a112162be834722080968ed084788ce417721e9add927dad.jpg"]
   },
   {
     "name": "CCBC",
@@ -135,7 +140,8 @@
       "Children's Literature",
       "Young Adult Literature",
       "Intellectual Freedom"
-    ]
+    ],
+    "image": ["https://d3jcs7j1qj73at.cloudfront.net/wp-content/uploads/sites/13/2023/02/CCBC-entryway-hero-1600x500.jpg"]
   },
   {
     "name": "Chemistry Information Commons",
@@ -162,7 +168,8 @@
       "Materials Chemistry",
       "Physical Chemistry",
       "Theoretical Chemistry"
-    ]
+    ],
+    "image": ["https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/86/88650939-3304-58fc-b82f-4d26730da172/61fb07a22e170.image.jpg?resize=647%2C500"]
   },
   {
     "name": "Chican@ and Latin@ Studies Library",
@@ -179,7 +186,8 @@
     "services": [],
     "specialties": [
       "Latino Studies"
-    ]
+    ],
+    "image": ["https://chicla.wisc.edu/wp-content/uploads/sites/1037/2019/07/Library-800x800.png"]
   },
   {
     "name": "College Library",
@@ -216,7 +224,8 @@
       "Gender and Women's Studies",
       "Undergraduate Services",
       "Career Services"
-    ]
+    ],
+    "image": ["https://asset.library.wisc.edu/1711.dl/5YBS6WEY4CVY79D/M/h1380-08990.jpg"]
   },
   {
     "name": "Ebling Library",
@@ -244,7 +253,8 @@
       "Public Health",
       "Biotechnology",
       "History of Health Sciences and Special Collections"
-    ]
+    ],
+    "image": ["https://asset.library.wisc.edu/1711.dl/OX3ANKLDNFXOR85/M/h1380-d505d.jpg"]
   },
   {
     "name": "Gender and Sexuality Campus Center Library",
@@ -264,7 +274,8 @@
     "specialties": [
       "GayLesbianBiTrans",
       "Women's Studies"
-    ]
+    ],
+    "image": ["https://lgbt.wisc.edu/wp-content/uploads/sites/175/2016/12/12373212_10153571821708283_1559022523174034849_n-600x400.jpg"]
   },
   {
     "name": "Gender and Women's Studies Librarian's Office",
@@ -286,7 +297,8 @@
       "Gender Studies",
       "Lesbian Studies",
       "Feminism"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/gwslibrarian-a9f8aaacd0c1a6bfe772ecf53c0bdba79be8e1d2a09e68d5bb29d18825263ec8.jpg"]
   },
   {
     "name": "Geology and Geophysics Library",
@@ -309,7 +321,8 @@
     "specialties": [
       "Geophysics",
       "Geology"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/geology-7db64781f766a131b72560a1d01ad0ff0bad97b5958e3b7f48f9bbf66d7a10d5.jpg"]
   },
   {
     "name": "Historical Society-Archives",
@@ -329,7 +342,8 @@
       "Microform printer",
       "Vending area"
     ],
-    "specialties": []
+    "specialties": [],
+    "image": ["https://cms.wisconsinhistory.org/cmsgallery//Medium/4654.jpg"]
   },
   {
     "name": "Historical Society-Library",
@@ -360,7 +374,8 @@
       "Government Publications",
       "Women's Studies",
       "Newspapers"
-    ]
+    ],
+    "image": ["https://cms.wisconsinhistory.org/cmsgallery//Medium/4654.jpg"]
   },
   {
     "name": "Information School Library",
@@ -382,7 +397,8 @@
     "specialties": [
       "Library and Information Science",
       "Children's literature"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/ischool-0f47a81f12604b3c1ac05b375d222772122a805282fdba65b05c275b1f90bbd8.jpg"]
   },
   {
     "name": "Journalism Reading Room",
@@ -405,7 +421,8 @@
       "Advertising",
       "Public relations",
       "Photojournalism"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/journalism-c6cc59ef5ae819c74a3966695f3fc6e9f6a08d82dd3d06e03242ac7d62c90e33.jpg"]
   },
   {
     "name": "Law Library",
@@ -430,7 +447,8 @@
       "Foreign and international law",
       "Criminal justice",
       "US law"
-    ]
+    ],
+    "image": ["https://library.law.wisc.edu/wp-content/uploads/sites/1094/2019/08/IMG-1105-600x400.jpg"]
   },
   {
     "name": "Limnology Library",
@@ -450,7 +468,8 @@
       "Marine biology",
       "Fisheries",
       "Lake ecology"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/limnology-9dad154f7897abf379e7fc76db5ef7c7f3f5a7a3825d4eb14a25588aab797e5c.jpg"]
   },
   {
     "name": "Max Kade Institute for German-American Studies",
@@ -468,7 +487,8 @@
     "specialties": [
       "German-American materials",
       "Reference materials"
-    ]
+    ],
+    "image": ["https://mki.wisc.edu/wp-content/uploads/sites/1100/2014/10/Library1.jpg"]
   },
   {
     "name": "Memorial Library",
@@ -504,7 +524,8 @@
       "Social Sciences",
       "Area Studies",
       "History of Science"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/memorial-a9f8aaacd0c1a6bfe772ecf53c0bdba79be8e1d2a09e68d5bb29d18825263ec8.jpg"]
   },
   {
     "name": "MERIT Library",
@@ -529,7 +550,8 @@
       "Education",
       "Teacher's Education",
       "Instructional Materials"
-    ]
+    ],
+    "image": ["https://merit.education.wisc.edu/wp-content/uploads/sites/12/2024/03/IMG_0110.jpg"]
   },
   {
     "name": "Mills Music Library",
@@ -552,7 +574,8 @@
       "Videos",
       "Wisconsin Music Archives",
       "Music special collections"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/music-a9f8aaacd0c1a6bfe772ecf53c0bdba79be8e1d2a09e68d5bb29d18825263ec8.jpg"]
   },
   {
     "name": "Morgridge Center",
@@ -567,7 +590,8 @@
       "email": "info@morgridge.wisc.edu"
     },
     "services": [],
-    "specialties": []
+    "specialties": [],
+    "image": ["https://morgridge.wisc.edu/wp-content/uploads/sites/4/2017/01/Armory_spring08_1072crop-1600x500.jpg"]
   },
   {
     "name": "Robinson Map Library",
@@ -588,7 +612,8 @@
       "Geography",
       "Cartography",
       "Geographic Information Systems"
-    ]
+    ],
+    "image": ["https://pbs.twimg.com/media/FPl-zS0WQAIKl9c.jpg"]
   },
   {
     "name": "Social Work Library",
@@ -620,7 +645,8 @@
       "Mental Health",
       "Substance Abuse",
       "Video Collection"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/socialwork-b88de914c016d393779dbdac5ac28003dcece8111a39fd2190f0480bda96cf99.jpg"]
   },
   {
     "name": "Special Collections",
@@ -643,7 +669,8 @@
       "Little magazines",
       "American women writers",
       "History of science"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/specialcollections-a9f8aaacd0c1a6bfe772ecf53c0bdba79be8e1d2a09e68d5bb29d18825263ec8.jpg"]
   },
   {
     "name": "Steenbock Library",
@@ -681,7 +708,8 @@
       "Patents",
       "Veterinary medicine",
       "Zoology"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/steenbock-ac2420a49d075557e55c5288564aa929bbbcd82e81fe11718d1842e20dbd02b0.jpg"]
   },
   {
     "name": "University Archives and Records Management Services",
@@ -705,7 +733,8 @@
       "UW-Madison",
       "UW System administration",
       "UW Colleges and Extension"
-    ]
+    ],
+    "image": ["https://www.library.wisc.edu/assets/buildings/steenbock-ac2420a49d075557e55c5288564aa929bbbcd82e81fe11718d1842e20dbd02b0.jpg"]
   },
   {
     "name": "Wisconsin Center for Film and Theater Research",
@@ -725,7 +754,8 @@
       "Stills",
       "Clippings",
       "Film and Video Viewing by appointment only"
-    ]
+    ],
+    "image": ["https://wcftr.commarts.wisc.edu/wp-content/uploads/2024/12/fc4c622b73a5e01b373adffb939dedd2570fe821.jpg"]
   },
   {
     "name": "Wisconsin Water Library",
@@ -749,7 +779,8 @@
       "Wisconsin water issues",
       "Great Lakes issues",
       "Children's collection on water"
-    ]
+    ],
+    "image": ["https://waterlibrary.aqua.wisc.edu/wp-content/uploads/library_shelves-scaled.jpg"]
   },
   {
     "name": "Zoological Museum Research Library",
@@ -768,6 +799,7 @@
       "Animal systematics",
       "Ecology",
       "Museum studies"
-    ]
+    ],
+    "image": ["https://uwzm.integrativebiology.wisc.edu/wp-content/uploads/sites/246/2023/07/Skins-display.jpg"]
   }
 ]
