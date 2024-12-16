@@ -76,17 +76,6 @@ fetch("libraryData.json")
 
         count += 1;
       });
-
-      document
-        .getElementById("collapseButton")
-        .addEventListener("click", function () {
-          // Toggle the aria-expanded attribute based on the current state
-          const isExpanded = this.getAttribute("aria-expanded") === "true";
-          // Save the state to localStorage (true for expanded, false for collapsed)
-          localStorage.setItem("collapseState", !isExpanded);
-          // Update the aria-expanded attribute
-          this.setAttribute("aria-expanded", !isExpanded);
-        });
     } else if (mainLibraries) {
       // ForEach loop to write to the locations
       data.forEach((element) => {
@@ -107,17 +96,6 @@ fetch("libraryData.json")
           <a href="./event.html" class="btn btn-link">Events</a>
           <button class="btn btn-light dropdown-toggle" type="button" data-bs-toggle="collapse"
               data-bs-target="#${sanitizedID}Details" aria-expanded="false" aria-controls="${sanitizedID}Details"></button>
-          
-              <script>
-              document.getElementById('collapseButton').addEventListener('click', function() {
-                // Toggle the aria-expanded attribute based on the current state
-                const isExpanded = this.getAttribute('aria-expanded') === 'true';
-                // Save the state to localStorage (true for expanded, false for collapsed)
-                localStorage.setItem('collapseState', !isExpanded);
-                // Update the aria-expanded attribute
-                this.setAttribute('aria-expanded', !isExpanded);
-              });
-            </script>
       </div>
   </div>
   <div class="collapse" id="${sanitizedID}Details">
@@ -152,20 +130,6 @@ fetch("libraryData.json")
 
         mainLibraries.innerHTML += collapsable;
       });
-
-      // Retrieve the collapse state from localStorage
-      const collapseState = localStorage.getItem("collapseState");
-      const collapseButton = document.getElementById("collapseButton");
-      const collapseElement = document.getElementById("${sanitizedID}Details");
-
-      if (collapseState === "true") {
-        // If the state is true (expanded), expand the collapse
-        collapseElement.classList.add("show");
-        collapseButton.setAttribute("aria-expanded", "true");
-      }
-
-      // Optionally, clear the state from localStorage if you want to reset the state later
-      // localStorage.removeItem('collapseState');
     }
   })
   .catch((error) => console.error("Error loading the JSON file:", error));

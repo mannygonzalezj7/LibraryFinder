@@ -87,9 +87,35 @@ html {
 }
 
 .about-img{
-    height: 25rem;
-    width: auto;
+    max-height: 25rem;
+    width: 100%;
     padding-top: 3rem
 }
 
 /*#footer{}*/
+
+@media (max-width: 576px) {
+    .about{
+        flex-direction: column;
+    }
+    
+    .carousel-item .row > div {
+        display: none;
+      }
+    
+      .carousel-item .row > div:nth-child(1) {
+        display: block;
+        max-width: 17rem;
+      }
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+    .carousel-item .row > div {
+      display: none; /* Hide all cards */
+    }
+  
+    .carousel-item .row > div:nth-child(1),
+    .carousel-item .row > div:nth-child(2) {
+      display: block; /* Show the first two cards */
+    }
+  }
