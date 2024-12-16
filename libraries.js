@@ -86,14 +86,14 @@ fetch("libraryData.json")
           .replace(/@/g, "\\");
 
         const collapsable = `<!-- ${element.name} library-->
-      <div class="list-group-item d-flex justify-content-between align-items-center">
+      <div class="list-group-item d-flex justify-content-between align-items-center" id=${sanitizedID}>
       <div>
           <strong>${element.name}</strong><br>
           ${element.hours.today}
       </div>
       <div>
-          <a href="./book.html" class="btn btn-link">Books</a>
-          <a href="./event.html" class="btn btn-link">Events</a>
+          <a href="book.html" class="btn btn-link">Books</a>
+          <a href="event.html" class="btn btn-link">Events</a>
           <button class="btn btn-light dropdown-toggle" type="button" data-bs-toggle="collapse"
               data-bs-target="#${sanitizedID}Details" aria-expanded="false" aria-controls="${sanitizedID}Details"></button>
       </div>

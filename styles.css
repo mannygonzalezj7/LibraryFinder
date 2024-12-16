@@ -92,6 +92,14 @@ html {
     padding-top: 3rem
 }
 
+.hidden{
+    display: none !important;
+}
+
+.container{
+    min-height: 75vh;
+}
+
 /*#footer{}*/
 
 @media (max-width: 576px) {
